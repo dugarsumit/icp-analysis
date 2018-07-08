@@ -1,7 +1,10 @@
 # icp-analysis
 Analysis of Iterative Closest Point
 
-This project evaluates several algorithms for iterative closest point. To compile and run this project, follow the instructions from linux_installation.txt.
+This project evaluates several algorithms for iterative closest point. To compile and run this project, follow the instructions from linux_installation.txt. This project has been implemented with equal contributions from [Sumit Dugar](https://github.com/dugarsumit) and [Neha Das](https://github.com/neha191091)
+
+The following poster (Click [here](https://github.com/dugarsumit/icp-analysis/blob/master/documents/icp-final-poster.pdf) for the PDF version) showcases the experiments and the results from this project:
+![poster](https://github.com/dugarsumit/icp-analysis/blob/master/documents/poster.jpg)
 
 We referenced and re-used some code from the exercises from the lecture "3D Scanning and Motion Capture" offered by the Computer Graphics and Visualization Group at the Technical University Munich in creating this project.
 
@@ -13,5 +16,8 @@ We also refer the following:
 5. Marquardt, D, "An Algorithm for Least-Squares Estimation of Nonlinear Parameters." *SIAM J. Appl. Math. 11, 431-441, 1963*
 6. Exercise 3. from the lecture "3D Scanning and Analysis", *Technical University of Munich*
 7. J. Sturm etal., "A Benchmark for the Evaluation of RGB-D SLAM Systems", *Proc. of the International Conference on Intelligent Robot Systems (IROS) 2012 Oct.*
+
+
+
 
 
