@@ -1,4 +1,4 @@
-# ICP Analysis
+# Analysis of Iterative Closest Point Algorithm
 Analysis of Iterative Closest Point
 
 This project evaluates several algorithms for iterative closest point. To compile and run this project, follow the instructions from linux_installation.txt. This project has been implemented with equal contributions from [Sumit Dugar](https://github.com/dugarsumit) and [Neha Das](https://github.com/neha191091)
